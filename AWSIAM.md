@@ -13,3 +13,8 @@
     Big enterprises uses to integrating their own repositories with I AM, this way one can log onto AWS with company credentials
     It uses the standards (Active Directory).
 ## Overall one IAM per User, one IAM role per application
+
+
+### Secrutiy groups:
+    Defines the inbound and outbound rules.
+    
