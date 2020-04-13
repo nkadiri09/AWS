@@ -17,4 +17,4 @@
 
 ### Secrutiy groups:
     Defines the inbound and outbound rules.
-    
+    Every services(not only EC2), can contain multiple security groups (inbound, and outboutn) rules for App.
