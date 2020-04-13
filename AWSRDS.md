@@ -7,3 +7,4 @@
     Aurora
     MariaDB
     Microsoft sql server
+### Read replica + auto scaling, multi az  for DR.+ weekly snapshots
